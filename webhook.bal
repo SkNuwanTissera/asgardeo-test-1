@@ -1,4 +1,4 @@
-import ballerinax/trigger.asgardeo;
+import nuwantissera/trigger.asgardeo;
 import ballerina/http;
 
 configurable asgardeo:ListenerConfig config = ?;
